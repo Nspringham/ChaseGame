@@ -1,7 +1,0 @@
-C:\Users\Nick\source\repos\SmallGame\SmallGame\bin\Debug\SmallGame.exe.config
-C:\Users\Nick\source\repos\SmallGame\SmallGame\bin\Debug\SmallGame.exe
-C:\Users\Nick\source\repos\SmallGame\SmallGame\bin\Debug\SmallGame.pdb
-C:\Users\Nick\source\repos\SmallGame\SmallGame\obj\Debug\SmallGame.csprojResolveAssemblyReference.cache
-C:\Users\Nick\source\repos\SmallGame\SmallGame\obj\Debug\SmallGame.csproj.CoreCompileInputs.cache
-C:\Users\Nick\source\repos\SmallGame\SmallGame\obj\Debug\SmallGame.exe
-C:\Users\Nick\source\repos\SmallGame\SmallGame\obj\Debug\SmallGame.pdb
